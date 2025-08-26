@@ -1,14 +1,14 @@
 <br clear="both">
 
-<h1 align="center">Julio Correa</h1>
+<h1 align="left">Ola, eu sou o Julio Correa</h1>
 
 ###
 
-<p align="center">Sou um jovem desenvolvedor de 16 anos, focado em me tornar um Desenvolvedor Backend. Atualmente, estudo programação de forma autodidata e através de cursos, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
+<p align="left">Sou um jovem desenvolvedor de 16 anos, focado em me tornar um Desenvolvedor Backend. Atualmente, estudo programação de forma autodidata e através de cursos, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.</p>
 
 ###
 
-<h2 align="center">ABOUT ME:</h2>
+<h2 align="left">ABOUT ME:</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="center">I CODE WITH:</h2>
+<h2 align="left">I CODE WITH:</h2>
 
 ###
 
